@@ -2,7 +2,7 @@
 
 First, I accept that it is not my better work, but in my defense, I was learning. After the early years of the Bachelor's Degree in computer science, the course was directed to embedded systems, which was the focus of my studies.
 
-A thesis is required to get the Bachelor's Degree, and I submitted in support of candidature the follow [document](https://github.com/ugliara-fellipe/bachelor-s-degree/raw/master/thesis.pdf). In mid-2010, the agricultural sensing using wireless sensor networks was between the research trends in the universities with focus on agriculture courses, in the countryside federal university that I studied wasn't different.
+A thesis is required to get the Bachelor's Degree, and I submitted in support of candidature the follow [document](https://github.com/ugliara-fellipe/bachelor-s-degree/raw/main/thesis.pdf). In mid-2010, the agricultural sensing using wireless sensor networks was between the research trends in the universities with focus on agriculture courses, in the countryside federal university that I studied wasn't different.
 
 I didn't know but that this research was my first contact with the research area that real catching me, programming languages. I had luck, [TinyOS](https://github.com/tinyos/tinyos-main) was written in [nesC](http://nescc.sourceforge.net/) a language designed to respect the hardware limits of sensor nodes.
 
